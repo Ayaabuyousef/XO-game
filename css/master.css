@@ -1,0 +1,24 @@
+body{
+  
+   background-image:url("https://previews.123rf.com/images/ivan101/ivan1011711/ivan101171100010/89553692-pink-glitter-background-with-xo-xo-slogan-flat-lay-shiny-texture-hipster-love-concept-.jpg"); 
+   }
+
+
+
+.cont {
+  width:400px;
+  height:400px;
+  margin:0 auto;
+}
+
+.sq {
+  width:120px;
+  height:120px;
+  background:#ff1a75;
+  margin: 5px;
+  font-size:90px; 
+  border-radius: 50%;
+  color:white;
+  float:left;
+}
+
